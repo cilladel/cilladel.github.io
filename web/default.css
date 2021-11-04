@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(173, 235, 235);
+}
+
+p{
+    color:lightcoral;
+    font-size: 18px;
+    font-style: bold;
+    font-family: "Arial, Helvetica, sans-serif";
+}
+
+h1{
+    color:midnightblue;
+    font-size: 25px;
+    font-style: bold; 
+    font-family: fantasy;
+}
+
