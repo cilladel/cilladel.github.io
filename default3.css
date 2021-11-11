@@ -1,0 +1,10 @@
+body{
+    background-color: mistyrose;
+}
+
+p{
+    color: midnightblue;
+    font-size: 30px;
+    font-style: bold;
+    font-family: "'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif";
+}
